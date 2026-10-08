@@ -1,4 +1,3 @@
-# Exercise 1
 students = []
 n = int(input("Enter number of student: "))
 for i in range(n):
